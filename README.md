@@ -4,12 +4,12 @@
 Set up a VPN on Kali Linux, verify IP change, and understand VPN privacy/security.
 
 ## VPN Chosen
-- Name: ProtonVPN / Windscribe
+- Name: Windscribe
 - Reason: Free tier, Linux CLI support.
 
 ## Steps Followed
 1. Created free VPN account on official site.
-2. Installed CLI client using `apt` / official script.
+2. Installed CLI client using `apt`.
 3. Logged in via terminal.
 4. Connected to fastest server.
 5. Verified IP change with `curl ifconfig.me` and browser test.
